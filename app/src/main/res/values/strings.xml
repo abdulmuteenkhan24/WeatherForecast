@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+
+    <string name="todo">Your Content Description Here</string>
+    <string name="city_name">City Name</string>
+    <string name="todo2">Your description here</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="_23">23°C</string>
+    <string name="condition">Sunny</string>
+    <string name="today_s_weather_forecast">Today\'s Weather Forecast</string>
+
+    <string name="_13">Your String Value Here</string>
+    <string name="todo3">Your String Value Here</string>
+    <string name="time">Your Time String Here</string>
+    <string name="_20">Your String Value Here</string>
+
+
+    <string name="card_view_description">Description of the CardView</string>
+    <string name="time_description">Description of the time</string>
+    <string name="temperature_description">Description of the temperature</string>
+    <string name="condition_description">Weather condition: cloudy</string>
+    <string name="wind_speed_description">Description of the wind speed</string>
+</resources>
